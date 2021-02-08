@@ -1,0 +1,24 @@
+.sticky {
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: lightcyan;
+  border: 3px solid cyan;
+}
+ 
+.luke {
+  position: absolute;
+  top: 2000px;
+  left: 300px;
+}
+
+.right {
+  position: absolute;
+  left: 400px;
+}
+
+.left {
+  position: absolute;
+  top: 85px;
+  font-size: 25px;
+}
